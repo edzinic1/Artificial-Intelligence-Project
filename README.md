@@ -1,4 +1,6 @@
 # Artificial-Intelligence-project
+The project was done by: Šahbaz Emina, Kovačević Nađa and Džinić Edna
+
 # 🧠 Disease Diagnosis Based on Symptoms – AI Project
 
 This project was developed as part of the "Artificial Intelligence" course at the Faculty of Electrical Engineering, University of Sarajevo. The goal is to build an intelligent system that can predict possible diseases based on symptoms provided by the user.
